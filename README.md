@@ -1,2 +1,0 @@
-# CODSOFT
-internship tasks
